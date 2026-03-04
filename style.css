@@ -1,0 +1,41 @@
+.titolo{
+    color: rgb(50, 94, 50);
+}
+header {
+    text-align: center;
+}
+hr {
+    border: none;
+    background-color: yellow;
+    height: 1.5px;
+}
+main {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foc{
+    text-align: center;
+    margin-top: 3em;
+}
+main img {
+    border-radius: 15px;
+}
+figure {
+    text-align: center;
+    color: rgb(163, 163, 155);
+}
+.featured{
+    margin-bottom: 0;
+    color: red;
+}
+.section{
+    border-left: 2px solid yellow;
+    padding-left: 15px ;
+    margin-bottom: 80px;
+}
+main hr{
+    border: none;
+    background-color: rgb(186, 241, 241);
+    height: 1.5px;
+}
